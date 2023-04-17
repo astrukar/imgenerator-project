@@ -65,7 +65,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <div className="mainContainer">
       <h2>Create Images With Your Mind</h2>
       <div className="description">
-        An app for all food lovers. Try out our <b>imGenerator</b>!
+       Try Out Our New <b>imGenerator</b>!
       </div>
       <textarea
         className="appInput"
